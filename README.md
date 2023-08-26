@@ -2,6 +2,8 @@
 
 Struggle with React for years...
 
+## Class component is dying
+
 ## Throw a promise to suspense, seriously?
 
 React favors function components instead of class components. This makes life cycle management harder. You can find that React has to use dark magic for function components to achieve something very simple for class components. Look how they make suspense function component in official docs (they hide this file from website, WTF?!), it is so dirty (and buggy!):
