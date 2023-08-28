@@ -41,6 +41,11 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Package locks
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
 # TypeScript v1 declaration files
 typings/
 
@@ -88,8 +93,9 @@ dist
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
-# vuepress build output
-.vuepress/dist
+# VitePress build output
+.vitepress/dist
+.vitepress/cache
 
 # Serverless directories
 .serverless/
