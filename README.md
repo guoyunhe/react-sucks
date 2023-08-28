@@ -1,4 +1,4 @@
-# React Sucks (2023 Update)
+# React Sucks
 
 We know your struggle...
 
