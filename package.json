@@ -13,6 +13,10 @@
     "great",
     "kick-ass"
   ],
+  "files": [
+    "README.md",
+    "LICENSE"
+  ],
   "author": {
     "name": "Guo Yunhe",
     "email": "i@guoyunhe.me",
