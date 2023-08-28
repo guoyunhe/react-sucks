@@ -1,11 +1,17 @@
 {
+  "name": "react-sucks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "vitepress dev",
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview"
+    "dev": "island dev docs",
+    "build": "island build docs",
+    "preview": "island start docs"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "vitepress": "1.0.0-rc.9"
+    "islandjs": "^0.7.6"
   }
 }
