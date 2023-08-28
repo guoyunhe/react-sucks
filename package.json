@@ -1,16 +1,24 @@
 {
   "name": "react-sucks",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "18.2.0",
+  "description": "we know your struggle",
   "scripts": {
     "dev": "island dev docs",
     "build": "island build docs",
     "preview": "island start docs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "awesome",
+    "nice",
+    "great",
+    "kick-ass"
+  ],
+  "author": {
+    "name": "Guo Yunhe",
+    "email": "i@guoyunhe.me",
+    "url": "https://guoyunhe.me/"
+  },
+  "license": "AGPL-3.0",
   "devDependencies": {
     "islandjs": "^0.7.6"
   }
